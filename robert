@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exemplu Imagine</title>
+</head>
+<body>
+    <h1>Bine ai venit!</h1>
+    <p>Aceasta este o imagine adăugată într-un site HTML:</p>
+    <img src="imaginea-ta.jpg" alt="Descrierea imaginii" width="400">
+</body>
+</html>
